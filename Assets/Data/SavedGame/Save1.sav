@@ -1,0 +1,89 @@
+{
+  "scene": "Test",
+  "levelName": "Test",
+  "levelNameKey": null,
+  "dateTime": "2023-08-19 21:09:39",
+  "playerData": {
+    "playerPosition": {
+      "x": -3.137742,
+      "y": 1.77999985,
+      "z": 0.0553588681,
+      "normalized": {
+        "x": -0.869688332,
+        "y": 0.493362784,
+        "z": 0.0153438244,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 3.60789251,
+      "sqrMagnitude": 13.01689
+    },
+    "cameraRotation": {
+      "x": 80.2001343,
+      "y": -3.999956,
+      "normalized": {
+        "x": 0.998758554,
+        "y": -0.0498127639,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 80.29982,
+      "sqrMagnitude": 6448.061
+    },
+    "characterState": 0,
+    "playerHealth": 100.0
+  },
+  "itemSwitcherData": {
+    "switcherActiveItem": -1,
+    "switcherWeaponItem": -1,
+    "switcher_item_flashlight": {
+      "FlashlightItem": {
+        "batteryPercentage": 100.0
+      }
+    },
+    "switcher_item_lantern": {
+      "LanternItem": {
+        "lightPercentage": 100.0,
+        "lightIntensity": 1.0,
+        "flameAlpha": 0.0
+      }
+    },
+    "switcher_item_candle": {
+      "CandleItem": {
+        "candleScale": 0.00113
+      }
+    },
+    "switcher_item_pistol": {
+      "WeaponController": {
+        "bulletsInMag": 7,
+        "uiShown": false
+      }
+    },
+    "switcher_item_shotgun": {
+      "WeaponController": {
+        "bulletsInMag": 7,
+        "uiShown": false
+      }
+    }
+  },
+  "inventoryData": {
+    "inv_slots_count": 10,
+    "slotsData": {
+      "inv_slot_0": "null",
+      "inv_slot_1": "null",
+      "inv_slot_2": "null",
+      "inv_slot_3": "null",
+      "inv_slot_4": "null",
+      "inv_slot_5": "null",
+      "inv_slot_6": "null",
+      "inv_slot_7": "null",
+      "inv_slot_8": "null",
+      "inv_slot_9": "null"
+    }
+  },
+  "objectivesData": {
+    "activeObjectives": {},
+    "touchedObjectives": {}
+  },
+  "saveablesData": {}
+}
