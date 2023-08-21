@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 19147
+  controlID: 276
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -170,7 +170,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 19148
+  controlID: 277
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -229,24 +229,24 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ae8ffbff
-      m_LastClickedID: -290898
-      m_ExpandedIDs: 26c5feff64d6feff36defeffb6defeffbceafeff68edfeffeaf3fefff407ffff381cffff7c28ffff5e2effffa24dffff9c74ffff9080ffff088cffffce92ffffecb1ffffeadbffff74e0ffff04fbffffb8640000f6650000606c0000ce8100003c9e0000989e0000689f000012a00000e2a4000092ae0000
+      scrollPos: {x: 0, y: 774}
+      m_SelectedIDs: c4730000
+      m_LastClickedID: 29636
+      m_ExpandedIDs: e0bffeff8e55ffff04fbffffb0640000d08b00003e9e0000deaa0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Booth_Toilet
+        m_OriginalName: Booth_Toilet
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -43638
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 6.495227, y: -0.44719267, z: -0.9331225}
+    m_Target: {x: -7.424558, y: 1.4672103, z: 4.1841}
     speed: 2
-    m_Value: {x: 6.495227, y: -0.44719267, z: -0.9331225}
+    m_Value: {x: -7.424558, y: 1.4672103, z: 4.1841}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -592,13 +592,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.10066514, y: -0.898289, z: 0.32348657, w: 0.2801224}
+    m_Target: {x: -0.044705614, y: 0.8176755, z: -0.06455566, w: -0.5704473}
     speed: 2
-    m_Value: {x: 0.10065664, y: -0.8982132, z: 0.32345927, w: 0.28009877}
+    m_Value: {x: -0.04470183, y: 0.8176063, z: -0.0645502, w: -0.57039905}
   m_Size:
-    m_Target: 1.3660848
+    m_Target: 1.7274007
     speed: 2
-    m_Value: 1.3660848
+    m_Value: 1.7274007
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -749,7 +749,7 @@ MonoBehaviour:
     m_SaveData: []
     m_OverlaysVisible: 1
   m_SearchFilter:
-    m_NameFilter: 
+    m_NameFilter: jumpsca
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -759,23 +759,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/DA2Stuff
+    - Assets
     m_Globs: []
-    m_OriginalText: 
+    m_OriginalText: jumpsca
     m_FilterByTypeIntersection: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/DA2Stuff
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\oncnb\Downloads\Programs\Dung xoa\DA2CNTT
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 111}
-    m_SelectedIDs: 68f40000
-    m_LastClickedID: 62568
-    m_ExpandedIDs: 0000000042f4000044f4000046f4000048f400004af400004cf400004ef4000050f4000052f4000054f4000056f4000058f400005af400005cf400005ef4000062f4000066f4000068f400006af400006cf400006ef4000070f4000072f4000074f4000076f4000078f400007cf400007ef4000038f7000068f7000098f70000d2f7000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 44f30000
+    m_LastClickedID: 62276
+    m_ExpandedIDs: 0000000044f3000046f3000048f300004af300004cf300004ef3000050f3000052f3000054f3000056f3000058f300005af300005cf300005ef3000060f3000062f3000064f3000066f3000068f300006af300006cf300006ef3000070f3000072f3000074f3000076f3000078f300007af300007cf300007ef3000080f3000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -803,7 +803,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000042f4000044f4000046f4000048f400004af400004cf400004ef4000050f4000052f4000054f4000056f4000058f400005af400005cf400005ef4000060f4000062f4000064f4000066f4000068f400006af400006cf400006ef4000070f4000072f4000074f4000076f4000078f400007af400007cf400007ef4000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000044f3000046f3000048f300004af300004cf300004ef3000050f3000052f3000054f3000056f3000058f300005af300005cf300005ef3000060f3000062f3000064f3000066f3000068f300006af300006cf300006ef3000070f3000072f3000074f3000076f3000078f300007af300007cf300007ef3000080f3000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -828,8 +828,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: ae8ffbff
-    m_LastClickedInstanceID: -290898
+    m_SelectedInstanceIDs: c4730000
+    m_LastClickedInstanceID: 29636
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300009813020088640b00f4ce000000000000466c0000
     m_RenameOverlay:
@@ -847,7 +847,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 10}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -855,7 +855,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 89}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
@@ -882,7 +882,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 621.60004
-    width: 1043.8
+    width: 1029.4
     height: 153.79999
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -933,8 +933,8 @@ MonoBehaviour:
     y: 0
     width: 505.59998
     height: 352
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -978,7 +978,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 617.19995
+  m_LastVerticalScrollValue: 108
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
